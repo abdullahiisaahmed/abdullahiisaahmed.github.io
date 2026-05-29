@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Abdullahi Isa Ahmed"
+title: "Welcome to A.I. Ahmed"
 author_profile: true
 redirect_from: 
   - /about/
